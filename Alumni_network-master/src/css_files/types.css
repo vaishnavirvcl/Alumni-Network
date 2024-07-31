@@ -1,0 +1,22 @@
+.jumbotron{
+    background-color: rgb(176, 179, 183);
+}
+body{
+    background-color:white ;
+}
+.card {
+    border-style: 5px solid black;
+    padding-bottom: 3%;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.btn{
+    color:white;
+    background-color:black;
+    size: large;
+    margin: 3px;
+}

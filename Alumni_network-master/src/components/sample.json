@@ -1,0 +1,13 @@
+[
+    { "id":101,"yog": 2020, "trade": "CSE", "tech": "Developer" , "lang" : "Java" },
+    { "id":102,"yog": 2021,  "trade":"IT" , "tech":"Animation" , "lang" : "R"},
+    { "id":103,"yog": 2019,  "trade":"CSE", "tech": "Developer" , "lang" : "CPP"},
+    { "id":104,"yog": 2008, "trade": "IT",  "tech": "HR" , "lang" : "Java"},
+    { "id":105,"yog": 2009,  "trade": "AIML",  "tech": "Non-Technical" , "lang" : "Java"},
+    { "id":106,"yog": 2022,  "trade": "IT",  "tech": "Developer" , "lang" : "CPP"},
+    { "id":107,"yog": 2019, "trade": "AIML", "tech": "Design" , "lang" : "R"},
+    { "id":108,"yog": 2008,  "trade":"CSE",  "tech": "Terminated" , "lang" : "R"},
+    { "id":109,"yog": 2020,  "trade": "AIML",  "tech": "Animation" , "lang" : "Java"},
+    { "id":110,"yog": 2021,  "trade":"CSE",  "tech":"Non-Technical", "lang" : "Python"}
+]
+ 
